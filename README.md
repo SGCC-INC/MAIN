@@ -1,4 +1,4 @@
 # MAIN SGCC
-Keiner Castillo,
+# Keiner Castillo,
 Leydy Martínez,
 
