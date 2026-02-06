@@ -52,3 +52,9 @@ print("Bienvenido al Sistema SGCC")
 
 https://github.com/krattoz-tech
 
+
+
+
+# imagen pendiente...
+
+
