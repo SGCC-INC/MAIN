@@ -38,20 +38,11 @@ Su objetivo principal es mejorar la organización, el seguimiento de estudiantes
 - Licencia
 
 
-
-## ⚙️ Instalación / Ejecución
-
-1. Clonar el repositorio:
-
-```bash
-git clone https://github.com/tu-usuario/SGCC.git
-
-
 ## ⚙️ Instalación / Ejecución
 
 1. Clonar el repositorio desde GitHub:
 
-   git clone https://github.com/tu-usuario/SGCC.git
+   git clone https://github.com/krattoz-tech/SGCC.git
 
 2. Acceder a la carpeta del proyecto:
 
