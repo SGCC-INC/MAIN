@@ -41,3 +41,14 @@ Su objetivo principal es mejorar la organización, el seguimiento de estudiantes
 - Interfaz organizada y fácil de usar
 - Plataforma escalable y adaptable
 - Optimización de la gestión en Centros de Enseñanza Automovilística
+
+## 💻 Ejemplo de código
+
+print("Bienvenido al Sistema SGCC")
+
+---
+
+##  Perfil de GitHub
+
+https://github.com/krattoz-tech
+
