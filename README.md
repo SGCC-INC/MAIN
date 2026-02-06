@@ -14,18 +14,6 @@ El Sistema de Gestión de Cursos de Conducción (SGCC) es una plataforma digital
 Su objetivo principal es mejorar la organización, el seguimiento de estudiantes y la gestión eficiente de cursos mediante herramientas tecnológicas modernas.
 
 
-## Tabla de Contenido
-
-- Descripción
-- Instalación
-- Uso
-- Características
-- Código de ejemplo
-- Imagen / Logo
-- Perfil GitHub
-- Contribución
-- Licencia
-
 
 ## ⚙️ Instalación / Ejecución
 
@@ -44,3 +32,12 @@ Su objetivo principal es mejorar la organización, el seguimiento de estudiantes
 4. Ejecutar el sistema:
 
    python main.py
+
+   ##  Características del Proyecto
+
+- Gestión de estudiantes y cursos de conducción
+- Automatización de procesos administrativos
+- Control académico y seguimiento de progreso
+- Interfaz organizada y fácil de usar
+- Plataforma escalable y adaptable
+- Optimización de la gestión en Centros de Enseñanza Automovilística
